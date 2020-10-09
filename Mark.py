@@ -7,4 +7,9 @@ Total=(A+B+C)
 Average=(A+B+C)/3
 print "Total=",Total
 print "Average=",Average
-
+if (Total>=150):
+    print('congatulation you got great passed')
+elif (Total>=100):
+    print('congatulation you got passed') 
+else:
+    print ('sorry you are fail')
