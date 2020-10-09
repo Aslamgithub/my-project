@@ -1,5 +1,3 @@
-print("subject total ,if function")
-print('......................................................................')
 A= int(input ("enter Maths marks:"))
 B= int(input ("enter Tamil marks:"))
 C= int(input ("enter Arabic marks:"))
@@ -8,9 +6,9 @@ Average=(A+B+C)/3
 print "Total=",Total
 print "Average=",Average
 if (Total>=150):
-    print('congatulation you got great passed')
+    print('congatulation you are pass with first class')
 elif (Total>=100):
-    print('congatulation you got passed') 
+    print('congatulation you are normal pass') 
 else:
     print ('sorry you are fail')
 if (Average>50):
