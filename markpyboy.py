@@ -1,4 +1,4 @@
-print("subject total ,if function")
+
 print('......................................................................')
 A= int(input ("enter Maths marks:"))
 B= int(input ("enter Tamil marks:"))
